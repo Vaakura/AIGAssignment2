@@ -1,5 +1,5 @@
 #Author: Jason
-#Date: 09-06-2020
+#Date: 03-06-2020
 #Descr: Knapsack problem solution suing hill-climbing concept written in julia
 
 #Weight/Value
